@@ -1,0 +1,14 @@
+# 虚拟环境
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 日志文件
+run.log
+*.log
+
+# 测试报告
+reports/
